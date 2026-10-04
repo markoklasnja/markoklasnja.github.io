@@ -101,7 +101,7 @@ h3 {
   margin: 0.75em 0 0;  }
 
 h4 {
-  font: 1em 'Roboto', sans-serif;
+  font: 0.90625rem 'Roboto', sans-serif;
   margin: 0.5em 0 0;  }
 	
 .abstract {
@@ -109,13 +109,13 @@ h4 {
 
 .coauthors {
   margin: 0.5em 0 -0.15em;
-  font-size: 1em;
+  font-size: 0.90625rem;
   line-height: 1.5; }
 
 .publisher {
   margin: 0.5em 0 -0.15em;
   font-style: italic; 
-  font-size: 1em;}
+  font-size: 0.90625rem;}
 
 .grayed {
   color: #999999; }
